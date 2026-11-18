@@ -12,7 +12,7 @@ int main(void) {
   secret_number = (rand() % 100 ) + 1;
 
   printf("Welcome to the Number Guessing Game!\n");
-  printf("I chose a number between 1 and 100.\n\n");
+  printf("Choose a number between 1 and 100.\n");
 
   do {
     printf("\nEnter your guess: ");
