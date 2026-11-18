@@ -55,15 +55,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
-
----
-
-<div align="center">
-
----
-
 ⭐ Star this repo if you like it!  
 Made with ❤️ by [faizanuddinkhan7](https://github.com/faizanuddinkhan7)
 
